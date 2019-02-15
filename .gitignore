@@ -1,0 +1,11 @@
+.vs
+/Game/Debug
+/Game/Debug
+/networkGame/Debug
+/Debug
+/release
+.qmake.stash
+Makefile*
+object_script*
+*.user*
+GameOutput/
